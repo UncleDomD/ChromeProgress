@@ -1,0 +1,14 @@
+table {
+    border: 3px solid black;
+    border-spacing: 5px;
+}
+th, td, tr {
+    border: 3px solid black;
+    padding: 10px;
+    border-collapse: collapse;
+}
+body {
+    background: url("https://i.ytimg.com/vi/kY03Kw9izBE/maxresdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 175%;
+}
